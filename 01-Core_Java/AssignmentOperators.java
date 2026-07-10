@@ -12,7 +12,7 @@ public class AssignmentOperators {
          int division=num1/num2;
          int remainder=num1%num2;
          System.out.println("Sum= "+sum);
-         System.out.println("DIIFERENCE="+diff);
+         System.out.println("Difference="+diff);
             System.out.println("PRODUCT="+product);
             System.out.println("DIVISION="+division);
             System.out.println("REMAINDER="+remainder);
