@@ -1,12 +1,13 @@
 import java.util.Scanner;
 public class AreaOfRectangle {
     public static void main(String[] moni)
-    {
 
+    {
+        Scanner sc=new Scanner(System.in);
         double width=0;
         double height=0;
         double area=0;
-        Scanner sc=new Scanner(System.in);
+
         System.out.println("Enter the width: ");
         width=sc.nextDouble();
         System.out.println("Enter the height: ");
